@@ -4,8 +4,13 @@ MIning Monero with two commands
 docker build . -t xmrig:rifky
 
 Basic run:
+
 docker run --name miner --rm -it xmrig:rifky
 
+Theeereee, you already success mining the Crypto with XMR/Monero,
+but that's for my account wallet.
+
+For your wallet, follow below command
 
 # Set up your own wallet and environment:
 
