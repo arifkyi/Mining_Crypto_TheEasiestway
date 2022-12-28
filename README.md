@@ -28,14 +28,15 @@ export DONATE_LEVEL="xmrig project donation in percent, default is 5"
 
 eg like this:
 
-<kbd>
+<table>
+ <tr><td>
 export POOL_USER="8BWdDpi4uRyDL24XBMdQQFbiwTVAdUWpZAKTbHnqPUxoiL8je9hg1NDAow1BpVF5FsP6fFX847aQiQbGUhCZ32skDsH1Eu7" \\ <br>
     POOL_PASS="" \\ <br>
     POOL_URL="gulf.moneroocean.stream:20128" \\ <br>
     DONATE_LEVEL=3 \\ <br>
     PRIORITY=0 \\ <br>
     THREADS=0
-</kbd>
+  </td></tr></table>
 
 
 # launch docker container after env setup
