@@ -5,9 +5,10 @@ docker build . -t xmrig:rifky
 
 Basic run:
 
-<table><tr><td>
-<tr>  docker run --name miner --rm -it xmrig:rifky </tr>
-    </td></tr></table>
+<kbd>
+ docker run --name miner --rm -it xmrig:rifky 
+</kbd>
+
 
 
 Theeereee, you already success mining the Crypto with XMR/Monero,
