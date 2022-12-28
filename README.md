@@ -6,7 +6,9 @@ docker build . -t xmrig:rifky
 Basic run:
 
 <kbd>
+ 
  docker run --name miner --rm -it xmrig:rifky 
+ 
 </kbd>
 
 
