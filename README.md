@@ -38,7 +38,7 @@ then we use this web  https://supportxmr.com/
 
 Open the web
 
-then put the wallet address, then you can see the  there/there is one or more worker AFTER around 5 MINUTES
+then put YOUR wallet address that you use for Mining, then you can see the  there/there is one or more worker AFTER around 5 MINUTES
 
 that means your mining is already run properly, CONGRATSSSZZZ
 
