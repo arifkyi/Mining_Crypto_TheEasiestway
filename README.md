@@ -5,14 +5,17 @@ docker build . -t xmrig:rifky
 
 Basic run:
 
+<table><tr><td>
 <tr>  docker run --name miner --rm -it xmrig:rifky </tr>
+    </td></tr></table>
+
 
 Theeereee, you already success mining the Crypto with XMR/Monero,
 but that's for my account wallet.
 
 For your wallet, follow below command
 
-# Set up your own wallet and environment:
+ Set up your own wallet and environment:
 
 export POOL_URL="here, pool url"
 
@@ -22,7 +25,7 @@ export POOL_PASS="can be empty for some pool, other use that as miner id"
 
 export DONATE_LEVEL="xmrig project donation in percent, default is 5"
 
-eg like this:
+# eg like this:
 
 export POOL_USER="8BWdDpi4uRyDL24XBMdQQFbiwTVAdUWpZAKTbHnqPUxoiL8je9hg1NDAow1BpVF5FsP6fFX847aQiQbGUhCZ32skDsH1Eu7" \\ <br>
     POOL_PASS="" \\ <br>
