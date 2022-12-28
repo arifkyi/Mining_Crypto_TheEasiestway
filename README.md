@@ -32,7 +32,7 @@ eg like this:
  <tr><td>
 export POOL_USER="8BWdDpi4uRyDL24XBMdQQFbiwTVAdUWpZAKTbHnqPUxoiL8je9hg1NDAow1BpVF5FsP6fFX847aQiQbGUhCZ32skDsH1Eu7" \ <br>
     POOL_PASS="" \ <br>
-    POOL_URL="gulf.moneroocean.stream:20128" \ <br>
+    POOL_URL="pool.supportxmr.com:5555" \ <br>
     DONATE_LEVEL=3 \ <br>
     PRIORITY=0 \ <br>
     THREADS=0
