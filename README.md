@@ -1,7 +1,7 @@
 # Mining_Crypto_TheEasiestway
 MIning Monero with two commands
 
-docker build . -t xmrig:rifky
+"docker build . -t xmrig:rifky"
 
 Basic run:
 
