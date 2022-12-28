@@ -24,7 +24,7 @@ RUN set -xe;\
 
 ENV POOL_USER="8BWdDpi4uRyDL24XBMdQQFbiwTVAdUWpZAKTbHnqPUxoiL8je9hg1NDAow1BpVF5FsP6fFX847aQiQbGUhCZ32skDsH1Eu7" \
     POOL_PASS="" \
-    POOL_URL="pool.supportxmr.com:5555" \
+    POOL_URL="gulf.moneroocean.stream:20128" \
     DONATE_LEVEL=5 \
     PRIORITY=0 \
     THREADS=0
