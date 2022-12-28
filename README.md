@@ -5,7 +5,7 @@ docker build . -t xmrig:rifky
 
 Basic run:
 
-<tr> <td> docker run --name miner --rm -it xmrig:rifky </td> </tr>
+<tr>  docker run --name miner --rm -it xmrig:rifky </tr>
 
 Theeereee, you already success mining the Crypto with XMR/Monero,
 but that's for my account wallet.
@@ -33,7 +33,10 @@ xmrig:rifky
 
 Depend to which pool
 
-In this example i use this pool: pool.supportxmr.com:5555
-then
-open this website: https://supportxmr.com/
-We use that webs
+In this example i use this pool: pool.supportxmr.com:5555 <br>
+then we use this web  https://supportxmr.com/
+
+Open the web
+
+then put the wallet address
+
