@@ -24,8 +24,7 @@ export DONATE_LEVEL="xmrig project donation in percent, default is 5"
 
 # launch docker container after env setup
 docker run --name miner --rm -it \\ <br>
--e POOL_URL=$POOL_URL \\ 
--e POOL_USER=$POOL_USER \\ 
--e POOL_PASS="" \\
-
+-e POOL_URL=$POOL_URL \\ <br>
+-e POOL_USER=$POOL_USER \\ <br>
+-e POOL_PASS="" \\ <br>
 xmrig:rifky
