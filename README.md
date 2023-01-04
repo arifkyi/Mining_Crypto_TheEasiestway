@@ -1,4 +1,7 @@
 # Mining_Crypto_TheEasiestway
+
+You can see the video in Youtube link https://youtu.be/PfSyjc7RrQM
+
 MIning Monero with two commands
 
 <kbd>
